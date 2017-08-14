@@ -1,0 +1,2 @@
+# valu_scraping_golang
+golangでVALUERを取得するスクリプトを書いた。ついでにExcelで読めるようにした
